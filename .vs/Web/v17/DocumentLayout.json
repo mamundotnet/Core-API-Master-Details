@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\1280994\\Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|C:\\Users\\student\\Desktop\\1280994\\Web\\models\\candidateskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|solutionrelative:models\\candidateskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|C:\\Users\\student\\Desktop\\1280994\\Web\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|solutionrelative:models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|C:\\Users\\student\\Desktop\\1280994\\Web\\models\\candidatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|solutionrelative:models\\candidatedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|C:\\Users\\student\\Desktop\\1280994\\Web\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|solutionrelative:models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|c:\\users\\student\\desktop\\1280994\\web\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|solutionrelative:controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|C:\\Users\\student\\Desktop\\1280994\\Web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|C:\\Users\\student\\Desktop\\1280994\\Web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|C:\\Users\\student\\Desktop\\1280994\\Web\\models\\viewmodels\\candidatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|solutionrelative:models\\viewmodels\\candidatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|C:\\Users\\student\\Desktop\\1280994\\Web\\Migrations\\20240902044823_A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F829553-506E-4D15-97CF-E8F28F7F4539}|Web.csproj|solutionrelative:Migrations\\20240902044823_A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\1280994\\Web\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CandidatesController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\1280994\\Web\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "Controllers\\CandidatesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:49:15.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidateVM.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\1280994\\Web\\Models\\ViewModels\\CandidateVM.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\CandidateVM.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\1280994\\Web\\Models\\ViewModels\\CandidateVM.cs",
+              "RelativeToolTip": "Models\\ViewModels\\CandidateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:41:40.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\1280994\\Web\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "Models\\Candidate.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\1280994\\Web\\Models\\Candidate.cs",
+              "RelativeToolTip": "Models\\Candidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:41:34.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidateDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\1280994\\Web\\Models\\CandidateDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\CandidateDbContext.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\1280994\\Web\\Models\\CandidateDbContext.cs",
+              "RelativeToolTip": "Models\\CandidateDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:41:29.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\1280994\\Web\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\1280994\\Web\\Models\\Skill.cs",
+              "RelativeToolTip": "Models\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:41:05.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidateSkill.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\1280994\\Web\\Models\\CandidateSkill.cs",
+              "RelativeDocumentMoniker": "Models\\CandidateSkill.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\1280994\\Web\\Models\\CandidateSkill.cs",
+              "RelativeToolTip": "Models\\CandidateSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:41:23.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\1280994\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\student\\Desktop\\1280994\\Web\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T04:44:04.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\1280994\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\1280994\\Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:46:17.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240902044823_A.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\1280994\\Web\\Migrations\\20240902044823_A.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240902044823_A.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\1280994\\Web\\Migrations\\20240902044823_A.cs",
+              "RelativeToolTip": "Migrations\\20240902044823_A.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:48:23.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

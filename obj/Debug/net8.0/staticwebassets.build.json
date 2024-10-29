@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "GTxz/vZb9aCmAcgszKU4FvfDAhoFO9c/YW+utFmd0r8=",
+  "Source": "Web",
+  "BasePath": "_content/Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Web\\wwwroot",
+      "Source": "Web",
+      "ContentRoot": "C:\\Users\\student\\Desktop\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\student\\Desktop\\Web\\wwwroot\\Images\\638608713763559645.jpg",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\student\\Desktop\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "Images/638608713763559645.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\638608713763559645.jpg"
+    }
+  ]
+}
